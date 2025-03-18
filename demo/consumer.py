@@ -18,7 +18,7 @@ channel.basic_consume(
     queue="hello",
     on_message_callback=callback,
     auto_ack=True,
-    consumer_tag="BalanetskiyVV_consumer",
+    consumer_tag="balanetskiyvv_consumer",
 )
 
 if __name__ == "__main__":
