@@ -1,1 +1,1 @@
-URI = 'amqp://test:test@localhost:5672/'
+URI = 'amqp://crack33:crack33@localhost:5672/'
