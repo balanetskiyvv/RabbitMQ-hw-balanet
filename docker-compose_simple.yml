@@ -27,5 +27,3 @@ services:
       - RABBITMQ_NODE_PORT=5672
     volumes:
       - ./config:/config
-  rabbitmq3:
-    image: rabbitmq:3.10.7-management
